@@ -11,7 +11,7 @@ Project aims to create a Task Tracker App.
 ## Project Skeleton
 
 ```
-002 - Task Tracker (folder)
+Task Tracker 
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
